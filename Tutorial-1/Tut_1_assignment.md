@@ -5,6 +5,8 @@
 
 **Topic:** Introduction to NumPy, Pandas, and Matplotlib
 
+**Note:** You may use LLMs for assistance to understand how things work, but do not dump the entire assignment into the chat and simply obtain working code. That will not help you develop understanding. Use LLMs as an assistant, not a replacement. This applies to the entire course.
+
 
 ### 1. The Scenario
 
