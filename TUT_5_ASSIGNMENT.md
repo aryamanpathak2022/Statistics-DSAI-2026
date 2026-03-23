@@ -131,6 +131,4 @@ Use R's built-in `airquality` dataset for this question. Load it with `data(airq
 
 ---
 
----
 
-*Good luck! Remember — R is designed to make data analysis intuitive. Trust the functions!* 🎯
